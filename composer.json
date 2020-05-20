@@ -14,7 +14,6 @@
         "magento 2",
         "Cron Clean",
     ],
-   
     "require": {},
     "autoload": {
         "files": [
