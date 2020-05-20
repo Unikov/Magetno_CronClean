@@ -1,6 +1,6 @@
-# Mage2 Module Unikov CleanCron
+# Module Unikov CleanCron
 
-    ``unikov/module-cleancron``
+    `unikov/module-cleancron`
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
