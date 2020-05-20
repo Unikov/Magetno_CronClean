@@ -12,7 +12,7 @@
     "version": "0.0.1",
     "keywords": [
         "magento 2",
-        "Cron Clean",
+        "Cron Clean"
     ],
     "require": {},
     "autoload": {
