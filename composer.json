@@ -9,8 +9,12 @@
             "name": "Trubnikov Rustam"
         }
     ],
-    "minimum-stability": "stable",
-    "prefer-stable": true,
+    "version": "0.0.1",
+    "keywords": [
+        "magento 2",
+        "Cron Clean",
+    ],
+   
     "require": {},
     "autoload": {
         "files": [
