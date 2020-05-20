@@ -1,5 +1,4 @@
-<?php declare(strict_types=1);
-
+<?php
 
 namespace Unikov\CleanCron\Plugin\Magento\Cron\Observer;
 use Magento\Framework\App\ResourceConnection;
